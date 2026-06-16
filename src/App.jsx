@@ -1,9 +1,10 @@
-import ResumeForm from "./resumeForm";
+import MemoryGame from "./Memory-game";
+import "./App.css";
 
 function App() {
   return (
     <>
-      <ResumeForm />
+      <MemoryGame />
     </>
   );
 }
